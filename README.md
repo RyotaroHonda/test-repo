@@ -4,7 +4,7 @@ This is the test repository.
 
 ## License
 
-This project is dual licensed under the Mozilla Public License Version 2.0.
+This project is licensed under the Mozilla Public License Version 2.0.
 
 For details, see the [license notice](LICENSE).
 
